@@ -41,8 +41,8 @@ For the version with Tor, you’ll also need:
 2. Clone the repository
 
 ```bash
-  git clone https://github.com/dr-pandit-69/antarvasna-scraper
-  cd antarvasna-scraper
+  git clone https://github.com/dr-pandit-69/strawpoll-voting-bot
+  cd strawpoll-voting-bot
 ```
 
 3. Create a virtual environment (Not Necessary, But Recommended)
