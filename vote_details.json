@@ -1,0 +1,19 @@
+{
+  "url": "<YOUR_POLL_URL>",
+  "vote_url": "<YOUR_VOTE_URL_API>",
+  "proxy": "<TOR_IP>:<TOR_PORT>",
+  "csrf_token_regex": "csrfToken:\\s*\"([^\"]+)\"",
+  "vote_data": {
+      "pv": "<PAYLOAD_PV>",
+      "v": {
+         
+      }
+  },
+  "retry_attempts": "<RETRY_ATTEMPTS>",
+  "vote_count_file": "vote_count.txt",
+  "tor_password": "<YOUR_TOR_PASSWORD>",
+  "max_votes": "<MAX_VOTES_REQUIRED>",
+  "wait_time_range": [15, 50],
+  "vote_option_name": "<VOTE_OPTION_NAME>"
+ 
+}
